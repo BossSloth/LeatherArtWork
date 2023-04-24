@@ -9,31 +9,31 @@
     "title" : "Princes",
     "description" : "Queen"
   },
-  {    
-    "image": "imgs/Art to PLay-Leatherartwork- 42x40-2016.JPG",
-    "title" : "Art to play",
-    "description" : "Fun"
-  },
-  {
-    "image": "after.JPG",
-    "title" : "Dry",
-    "description" : "After"
-  },
   {
     "image": "Chickens.jpg",
     "title" : "different",
     "description" : "Be yourself no matter what they say"
   },
   {
+    "image": "after.JPG",
+    "title" : "Dry",
+    "description" : "After"
+  },
+  {    
+    "image": "imgs/Art to PLay-Leatherartwork- 42x40-2016.JPG",
+    "title" : "Art to play",
+    "description" : "Fun"
+  },  
+  {
     "image": "DSCN0749 (3).JPG",
     "title" : "Outside",
     "description" : "family trip"
   },
   {
-    "image": "imgs/paard.JPG",
-    "title" : "Horse",
-    "description" : "Horse in barn"
-  },
+    "image": "huizen.jpg",
+    "title" : "Amsterdam",
+    "description" : "van Gogh inspiration in leather"
+  },  
   {
     "image": "flowers - kopie.png",
     "title" : "Flowers",
@@ -53,11 +53,11 @@
     "image": "hondje.jpg",
     "title" : "Puppy",
     "description" : "Puppy child"
-  },
+  },  
   {
-    "image": "huizen.jpg",
-    "title" : "Amsterdam",
-    "description" : "van Gogh inspiration in leather"
+    "image": "imgs/paard.JPG",
+    "title" : "Horse",
+    "description" : "Horse in barn"
   },
   {
     "image": "in Between.JPG",
@@ -70,6 +70,11 @@
     "description" : "Portret in paint and Leather"
   },
   {
+    "image": "Lets Dance-Leatherartwork-50x40-2016.jpg",
+    "title" : "Lets Dance",
+    "description" : "Abstract together"
+  }, 
+  {
     "image": "johnleno.png",
     "title" : "John Lennon",
     "description" : "Portret on coaster in Leather"
@@ -78,12 +83,7 @@
     "image": "koe2.png",
     "title" : "cow in 3D",
     "description" : "Paper machee cow with Leather"
-  }, 
-  {
-    "image": "Lets Dance-Leatherartwork-50x40-2016.jpg",
-    "title" : "Lets Dance",
-    "description" : "Abstract together"
-  }, 
+  },  
   {
     "image": "lets Groove-Leatherartwork-80x60-2016.jpg",
     "title" : "Lets Groove",
@@ -130,29 +130,24 @@
     "description" : "Leather and paint"
   },
   {
-    "image": "swirl moment.jpg",
-    "title" : "Christmas",
-    "description" : "Happy holidays"
-  },
-  {
     "image": "tulp in vaas.JPG",
-    "title" : "Tulp in vase",
+    "title" : "tulp in vase",
     "description" : "Abstract"
-  },
+  }, 
   {
     "image": "tulppaars.png",
     "title" : "Purple Tulp",
     "description" : "Abstract"
   },
   {
+    "image": "swirl moment.jpg",
+    "title" : "Christmas",
+    "description" : "Happy holidays"
+  },
+  {
     "image": "View to Greece.jpg",
     "title" : "View to Greece",
     "description" : "Leather, wood, paint"
-  },
-  {
-    "image": "Zelfportret.JPG",
-    "title" : "self portret",
-    "description" : "Leather"
   },
   {
     "image": "zen.jpg (963x775) (2).jpg",
@@ -173,10 +168,44 @@
     "image": "DSCN0769 (2).JPG",
     "title" : "Tulps",
     "description" : "Dutch Tulps"
+  },
+  {
+    "image": "Zelfportret.JPG",
+    "title" : "self portret",
+    "description" : "Leather"
+  },
+  {
+    "image": "apen.jpg",
+    "title" : "sea no evil...",
+    "description" : "Leather and paint"
+  },
+  {
+    "image": "Box.jpg",
+    "title" : "Box",
+    "description" : "Leather on wood"
+  },
+  {
+    "image": "Teabox.jpg",
+    "title" : "TeaBox",
+    "description" : "Leather on wood"
+  },
+  {
+    "image": "Teabox1.jpg",
+    "title" : "Tea Box",
+    "description" : "Leather on wood"
+  },
+  {
+    "image": "Tissuebox.jpg",
+    "title" : "Tissue Box",
+    "description" : "Leather on wood"
+  },
+  {
+    "image": "Storewood.jpg",
+    "title" : "Storage",
+    "description" : "Leather on cutting board"  
   }
   
-  
-  
+    
 ]
     
 
