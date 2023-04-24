@@ -5,9 +5,9 @@
     "description" : "Leather and paint"
   },
   {
-    "image": "imgs/paard.JPG",
-    "title" : "Horse",
-    "description" : "Horse in barn"
+    "image": "Bea.JPG",
+    "title" : "Princes",
+    "description" : "Queen"
   },
   {    
     "image": "imgs/Art to PLay-Leatherartwork- 42x40-2016.JPG",
@@ -20,19 +20,9 @@
     "description" : "After"
   },
   {
-    "image": "Bea.JPG",
-    "title" : "Princes",
-    "description" : "Queen"
-  },
-  {
     "image": "Chickens.jpg",
     "title" : "different",
     "description" : "Be yourself no matter what they say"
-  },
-  {
-    "image": "drie tulpen.JPG",
-    "title" : "Tulp",
-    "description" : "three Tulps"
   },
   {
     "image": "DSCN0749 (3).JPG",
@@ -40,9 +30,9 @@
     "description" : "family trip"
   },
   {
-    "image": "DSCN0769 (2).JPG",
-    "title" : "Tulps",
-    "description" : "Dutch Tulps"
+    "image": "imgs/paard.JPG",
+    "title" : "Horse",
+    "description" : "Horse in barn"
   },
   {
     "image": "flowers - kopie.png",
@@ -164,7 +154,7 @@
     "title" : "self portret",
     "description" : "Leather"
   },
-   {
+  {
     "image": "zen.jpg (963x775) (2).jpg",
     "title" : "Zen",
     "description" : "Leather"
@@ -173,7 +163,19 @@
     "image": "Zomernacht klein.jpg",
     "title" : "Vacation",
     "description" : "Relax"
+   }, 
+   {
+    "image": "drie tulpen.JPG",
+    "title" : "Tulp",
+    "description" : "three Tulps"
+  },
+  {
+    "image": "DSCN0769 (2).JPG",
+    "title" : "Tulps",
+    "description" : "Dutch Tulps"
   }
+  
+  
   
 ]
     
