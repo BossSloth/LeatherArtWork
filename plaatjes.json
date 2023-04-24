@@ -6,12 +6,175 @@
   },
   {
     "image": "imgs/paard.JPG",
-    "title" : "Paard",
-    "description" : "Paard in staal"
+    "title" : "Horse",
+    "description" : "Horse in barn"
+  },
+  {    
+    "image": "imgs/Art to PLay-Leatherartwork- 42x40-2016.JPG",
+    "title" : "Art to play",
+    "description" : "Fun"
   },
   {
-    "image": "imgs/bunny.jpg",
-    "title" : "Bunny",
-    "description" : "Het is een konijn"
+    "image": "after.JPG",
+    "title" : "Dry",
+    "description" : "After"
+  },
+  {
+    "image": "Bea.JPG",
+    "title" : "Princes",
+    "description" : "Queen"
+  },
+  {
+    "image": "Chickens.jpg",
+    "title" : "different",
+    "description" : "Be yourself no matter what they say"
+  },
+  {
+    "image": "drie tulpen.JPG",
+    "title" : "Tulp",
+    "description" : "three Tulps"
+  },
+  {
+    "image": "DSCN0749 (3).JPG",
+    "title" : "Outside",
+    "description" : "family trip"
+  },
+  {
+    "image": "DSCN0769 (2).JPG",
+    "title" : "Tulps",
+    "description" : "Dutch Tulps"
+  },
+  {
+    "image": "flowers - kopie.png",
+    "title" : "Flowers",
+    "description" : "Abstract flowers"
+  },
+  {
+    "image": "Geloof ongeloof digitaal.JPG",
+    "title" : "Go On Digital",
+    "description" : "GOD"
+  },
+  {
+    "image": "het jaar van het roosterb.png",
+    "title" : "Rooster",
+    "description" : "Paint, Leather, wood"
+  },
+  {
+    "image": "hondje.jpg",
+    "title" : "Puppy",
+    "description" : "Puppy child"
+  },
+  {
+    "image": "huizen.jpg",
+    "title" : "Amsterdam",
+    "description" : "van Gogh inspiration in leather"
+  },
+  {
+    "image": "in Between.JPG",
+    "title" : "from behind",
+    "description" : "see me dont see me in colors en black and white"
+  },
+  {
+    "image": "jb.png",
+    "title" : "Jason Bieber",
+    "description" : "Portret in paint and Leather"
+  },
+  {
+    "image": "johnleno.png",
+    "title" : "John Lennon",
+    "description" : "Portret on coaster in Leather"
+  },
+  {
+    "image": "koe2.png",
+    "title" : "cow in 3D",
+    "description" : "Paper machee cow with Leather"
+  }, 
+  {
+    "image": "Lets Dance-Leatherartwork-50x40-2016.jpg",
+    "title" : "Lets Dance",
+    "description" : "Abstract together"
+  }, 
+  {
+    "image": "lets Groove-Leatherartwork-80x60-2016.jpg",
+    "title" : "Lets Groove",
+    "description" : "Abstract"
+  }, 
+  {
+    "image": "Little china girl-Leatherartwork-55x40-2016.jpg",
+    "title" : "Little China girl",
+    "description" : "Abstract"
+  },
+  {
+    "image": "Mandela.JPG",
+    "title" : "Mandela",
+    "description" : "Portret in Leather"
+  },
+  {
+    "image": "Meisje.JPG",
+    "title" : "National Geo",
+    "description" : "Portret in Leather"
+  },
+  {
+    "image": "monroe.JPG",
+    "title" : "Marlyn",
+    "description" : "Portret in Leather"
+  },
+  {
+    "image": "Naturly(1113x729).jpg",
+    "title" : "Naturly",
+    "description" : "Leather on wood"
+  },
+  {
+    "image": "poesjem.jpg",
+    "title" : "Kitten",
+    "description" : "Leather Child"
+  },
+  {
+    "image": "rodekat (3).jpg",
+    "title" : "Kitten",
+    "description" : "Beutiful"
+  },
+  {
+    "image": "rosa.JPG",
+    "title" : "Roos",
+    "description" : "Leather and paint"
+  },
+  {
+    "image": "swirl moment.jpg",
+    "title" : "Christmas",
+    "description" : "Happy holidays"
+  },
+  {
+    "image": "tulp in vaas.JPG",
+    "title" : "Tulp in vase",
+    "description" : "Abstract"
+  },
+  {
+    "image": "tulppaars.png",
+    "title" : "Purple Tulp",
+    "description" : "Abstract"
+  },
+  {
+    "image": "View to Greece.jpg",
+    "title" : "View to Greece",
+    "description" : "Leather, wood, paint"
+  },
+  {
+    "image": "Zelfportret.JPG",
+    "title" : "self portret",
+    "description" : "Leather"
+  },
+   {
+    "image": "zen.jpg (963x775) (2).jpg",
+    "title" : "Zen",
+    "description" : "Leather"
+  },
+  {
+    "image": "Zomernacht klein.jpg",
+    "title" : "Vacation",
+    "description" : "Relax"
   }
+  
 ]
+    
+
