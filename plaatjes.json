@@ -1,0 +1,17 @@
+[
+  {
+    "image": "imgs/royal.png",
+    "title" : "Bunny",
+    "description" : "Het is een konijn"
+  },
+  {
+    "image": "imgs/paard.jpg",
+    "title" : "Bunny 2",
+    "description" : "Het is ook konijn"
+  },
+  {
+    "image": "imgs/bunny.jpg",
+    "title" : "Bunny",
+    "description" : "Het is een konijn"
+  }
+]
