@@ -3,11 +3,14 @@
     top: 25%;
     margin: 0 auto;
     width: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 501px;
 }
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(3,auto);
+    grid-template-columns: repeat(3, auto);
     grid-gap: 10px;
     padding: 10px;
     margin-top: 10px;
@@ -24,6 +27,11 @@
     border: none;
 }
 
+a {
+    color: black;
+    font-size: 1.5rem;
+}
+
 .card-header {
     margin-bottom: 0 !important
 }
@@ -34,4 +42,17 @@
 
 .card-body {
     padding: 0;
+}
+
+.img-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.img-container img {
+    aspect-ratio: 1 / 1;
+    margin: 2rem;
 }
