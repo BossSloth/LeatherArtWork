@@ -1,11 +1,15 @@
 .title {
     position: relative;
-    top: 25%;
     margin: 0 auto;
     width: fit-content;
     display: flex;
     flex-wrap: wrap;
     max-width: 501px;
+    text-align: center;
+
+    * {
+        margin: 0 auto;
+    }
 }
 
 .grid-container {
